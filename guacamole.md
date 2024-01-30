@@ -10,4 +10,4 @@ Instructions:
 - chop jalapeno
 - squeeze lime
 - add salt
-- and mix well
+- and mix well.
